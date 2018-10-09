@@ -66,7 +66,7 @@ More specifically, your website must include and incorporate the following featu
    - Your `<table`> must include a header (`<thead>`), a body (`<tbody>`), and a footer (`<tfoot>`)
 * A consistent page footer on every page
    - Your footer must include the copyright symbol and year (i.e., © 2018)
-   - Your footer must include the school (appropriately hyperlinked), and course (i.e., AIT | APSCS)
+   - Your footer must include the school (appropriately hyperlinked), and course (i.e., AIT | APCSP)
    - Your footer must include a contact email (appropriately hyperlinked)
       * You must not use an actual email (instead, use info@example.com)
 
