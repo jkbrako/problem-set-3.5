@@ -1,4 +1,40 @@
 h1 {
-    color: navy;
-    margin-left: 20px;
+  font-family:inherit;
+  color: white;
+}
+h2 {
+  font-family:inherit;
+  color: white;
+}
+P { 
+    color: rgb(240, 240, 240);
+    font-size: 20px;
+}
+.home {
+  font-style: italic;
+  color: rgb(240, 240, 240);
+  font-size: 20px;
+}
+li {
+  font-style: oblique;
+  color: white;
+  font-size: 25px;
+  font-
+
+}
+body {
+  background-color: rgb(52, 124, 222);
+}
+footer{
+  color: rgb(240, 240, 240);
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  color: rgb(255, 29, 41);
+  text-decoration: none;
+}
+a:active {
+  color: purple;
 }
